@@ -1,5 +1,5 @@
 import React from 'react';
-import PeopleList from './PeopleList.jsx';
+import PeopleList from '../components/PeopleList.jsx';
 
 class People extends React.Component{
   constructor() {

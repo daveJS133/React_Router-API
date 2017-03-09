@@ -1,5 +1,5 @@
 import React from 'react';
-import ShipsList from './ShipsList.jsx';
+import ShipsList from '../components/ShipsList.jsx';
 
 class Ships extends React.Component{
   constructor() {
